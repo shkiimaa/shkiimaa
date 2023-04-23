@@ -1,4 +1,4 @@
-<h1>💻Stack</h1>
+<h1>💻 Stack</h1>
 <div>
  <h3>Web</h3>
  <!-- badge : https://shields.io/ -->
