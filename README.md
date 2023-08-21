@@ -11,14 +11,15 @@
  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp
+ <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> &nbsp
  <img src="https://img.shields.io/badge/React-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> &nbsp 
- <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> &nbsp
- <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/> &nbsp 
  <br/>
  <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
  
  <h3>Tools</h3>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> &nbsp 
