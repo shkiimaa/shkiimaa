@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp
  <img src="https://img.shields.io/badge/React-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> &nbsp 
- <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=Redux&logoColor=white"/> &nbsp
+ <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> &nbsp
  <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/> &nbsp 
  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
  <br/>
