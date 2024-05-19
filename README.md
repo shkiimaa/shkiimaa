@@ -33,7 +33,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2034%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -95,5 +95,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2024 18:39:08 UTC
+ Last Updated on 19/05/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
