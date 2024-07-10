@@ -1,6 +1,5 @@
 <h1>💻 Stack</h1>
 <div>
- <h3>Web</h3>
  <!-- badge : https://shields.io/ -->
  <!-- icon : https://simpleicons.org/?q=Get -->
  <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp 
