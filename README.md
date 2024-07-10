@@ -21,7 +21,7 @@
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </div>
 
-<br>
+<hr>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%209%20mins-blue)
