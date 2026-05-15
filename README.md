@@ -24,8 +24,6 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C550%20hrs%2045%20mins-blue?style=flat)
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -39,5 +37,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:17:35 UTC
+ Last Updated on 15/05/2026 20:05:29 UTC
 <!--END_SECTION:waka-->
