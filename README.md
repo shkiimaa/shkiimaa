@@ -24,18 +24,70 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C568%20hrs%2011%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+🌆 Daytime                925 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+🌃 Evening                1772 commits        █████████████░░░░░░░░░░░░   53.52 % 
+🌙 Night                  424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   521 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Tuesday                  610 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                583 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Thursday                 583 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Friday                   611 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Saturday                 190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Sunday                   213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               22 hrs 32 mins      █████████████████░░░░░░░░   69.44 % 
+Other                    7 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Java                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 28 mins      ████████████████████░░░░░   81.52 % 
+Antigravity              3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Unknown Editor           2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+
+🐱‍💻 Projects: 
+bitria_frontend          18 hrs 55 mins      ███████████████░░░░░░░░░░   58.27 % 
+chipotle-dashboard-client4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+doit_structure           3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+bitria_backend           2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+bitria_order_service     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+
+💻 Operating System: 
+Mac                      28 hrs 48 mins      ██████████████████████░░░   88.73 % 
+Windows                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               52 repos            ████████████████░░░░░░░░░   64.20 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               53 repos            ████████████████░░░░░░░░░   63.86 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
 
 
- Last Updated on 15/05/2026 20:05:29 UTC
+ Last Updated on 16/05/2026 19:42:51 UTC
 <!--END_SECTION:waka-->
