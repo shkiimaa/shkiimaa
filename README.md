@@ -24,18 +24,69 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C665%20hrs%2041%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                192 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 Daytime                968 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌃 Evening                1832 commits        █████████████░░░░░░░░░░░░   53.55 % 
+🌙 Night                  429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   528 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Tuesday                  633 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Wednesday                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Thursday                 618 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Friday                   632 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Saturday                 201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Sunday                   213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               25 hrs 24 mins      █████████████████░░░░░░░░   69.97 % 
+YAML                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 42 mins      ████████████████████████░   95.55 % 
+Claude Code              1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+
+🐱‍💻 Projects: 
+bitria_frontend          16 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.75 % 
+bitria_backend           3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+ballpark                 3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+bitria_docker            2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+admin                    1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+
+💻 Operating System: 
+Mac                      28 hrs 32 mins      ████████████████████░░░░░   78.60 % 
+Windows                  7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               54 repos            ████████████████░░░░░░░░░   64.29 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               56 repos            ████████████████░░░░░░░░░   65.12 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 20:58:53 UTC
+ Last Updated on 29/05/2026 21:01:30 UTC
 <!--END_SECTION:waka-->
