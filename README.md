@@ -29,21 +29,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-🌆 Daytime                1334 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                2436 commits        ██████████████░░░░░░░░░░░   54.39 % 
+🌞 Morning                200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+🌆 Daytime                1336 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌃 Evening                2436 commits        ██████████████░░░░░░░░░░░   54.36 % 
 🌙 Night                  509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  795 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Wednesday                757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 796 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Friday                   851 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Tuesday                  795 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Wednesday                757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 796 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Friday                   851 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 Saturday                 254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Sunday                   252 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Sunday                   254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 
 
@@ -53,25 +53,25 @@ Sunday                   252 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               21 hrs 19 mins      ██████████████████░░░░░░░   72.13 % 
-Java                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Other                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-CSS                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+TypeScript               20 hrs 23 mins      ██████████████████░░░░░░░   72.17 % 
+Java                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Other                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 28 mins      ████████████████░░░░░░░░░   65.87 % 
-Claude Code              10 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
+VS Code                  18 hrs 22 mins      ████████████████░░░░░░░░░   65.02 % 
+Claude Code              9 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          18 hrs 34 mins      ████████████████░░░░░░░░░   62.82 % 
-bitria_backend           3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-chipotle-dashboard-client3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-chipotle-dashboard-server3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-bitria_order_service     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+bitria_frontend          18 hrs 34 mins      ████████████████░░░░░░░░░   65.75 % 
+bitria_backend           3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+chipotle-dashboard-server2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+chipotle-dashboard-client2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+bitria_order_service     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      29 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +87,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026 19:45:59 UTC
+ Last Updated on 19/07/2026 19:45:10 UTC
 <!--END_SECTION:waka-->
