@@ -24,26 +24,26 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C882%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C886%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-🌆 Daytime                1370 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌃 Evening                2553 commits        ██████████████░░░░░░░░░░░   55.06 % 
-🌙 Night                  513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+🌞 Morning                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+🌆 Daytime                1390 commits        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌃 Evening                2571 commits        ██████████████░░░░░░░░░░░   54.99 % 
+🌙 Night                  513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   809 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Tuesday                  820 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                785 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Thursday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Friday                   887 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Saturday                 258 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Sunday                   257 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Monday                   842 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Tuesday                  825 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Wednesday                785 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Thursday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Friday                   887 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Saturday                 258 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Sunday                   257 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 
 
@@ -53,25 +53,25 @@ Sunday                   257 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               15 hrs 49 mins      ██████████████████░░░░░░░   71.34 % 
-Markdown                 3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Java                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+TypeScript               15 hrs 11 mins      ███████████████████░░░░░░   77.01 % 
+Java                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 8 mins       ██████████████░░░░░░░░░░░   54.73 % 
-VS Code                  10 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
+Claude Code              16 hrs 17 mins      █████████████████████░░░░   82.52 % 
+VS Code                  3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          14 hrs 11 mins      ████████████████░░░░░░░░░   63.99 % 
-bitria_backend           3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-chipotle-dashboard-server1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-chipotle-dashboard-client1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-bitria_order_service     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+bitria_frontend          13 hrs 11 mins      █████████████████░░░░░░░░   66.80 % 
+bitria_backend           2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+chipotle-dashboard-server1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+chipotle-dashboard-client1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+chipotle                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Mac                      22 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +87,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 20:10:53 UTC
+ Last Updated on 21/07/2026 20:04:50 UTC
 <!--END_SECTION:waka-->
