@@ -24,6 +24,56 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C925%20hrs%203%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                232 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌆 Daytime                4273 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
+🌃 Evening                7325 commits        ███████████████░░░░░░░░░░   58.48 % 
+🌙 Night                  696 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2793 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Tuesday                  1948 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                1751 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Thursday                 2660 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   2615 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Saturday                 459 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Sunday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               22 hrs 31 mins      ████████████████████░░░░░   78.46 % 
+Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+
+🔥 Editors: 
+Claude Code              17 hrs 17 mins      ███████████████░░░░░░░░░░   60.20 % 
+VS Code                  11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.80 % 
+
+🐱‍💻 Projects: 
+bitria_frontend          21 hrs 30 mins      ███████████████████░░░░░░   74.93 % 
+bitria_backend           4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+bitria_docker            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+chipotle-dashboard-client47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+chipotle-dashboard-server38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+
+💻 Operating System: 
+Mac                      28 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -37,5 +87,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:02:25 UTC
+ Last Updated on 25/07/2026 19:49:34 UTC
 <!--END_SECTION:waka-->
