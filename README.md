@@ -53,25 +53,24 @@ Sunday                   300 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               22 hrs 31 mins      ████████████████████░░░░░   78.46 % 
-Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               22 hrs 9 mins       ████████████████████░░░░░   80.42 % 
+Markdown                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 17 mins      ███████████████░░░░░░░░░░   60.20 % 
-VS Code                  11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.80 % 
+Claude Code              17 hrs 17 mins      ████████████████░░░░░░░░░   62.73 % 
+VS Code                  10 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   37.27 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          21 hrs 30 mins      ███████████████████░░░░░░   74.93 % 
-bitria_backend           4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-bitria_docker            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-chipotle-dashboard-client47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-chipotle-dashboard-server38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+bitria_frontend          21 hrs 47 mins      ████████████████████░░░░░   79.07 % 
+bitria_backend           4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+bitria_docker            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+hifive                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Mac                      28 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +86,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:49:34 UTC
+ Last Updated on 26/07/2026 19:48:50 UTC
 <!--END_SECTION:waka-->
