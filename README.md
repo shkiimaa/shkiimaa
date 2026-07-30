@@ -24,9 +24,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C872%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C876%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-558%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-562%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -55,50 +55,50 @@ Sunday                   210 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               19 hrs 14 mins      ██████████████░░░░░░░░░░░   57.48 % 
-Other                    10 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JavaScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               25 hrs 37 mins      ██████████████░░░░░░░░░░░   57.32 % 
+Other                    11 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 35 mins      ██████████████████████░░░   88.37 % 
-Claude Code              3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+VS Code                  37 hrs 16 mins      █████████████████████░░░░   83.42 % 
+Claude Code              7 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          29 hrs 12 mins      ██████████████████████░░░   87.22 % 
-bitria_backend           2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-bitria_frontend_info     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-hifive                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-bitria_docker            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+bitria_frontend          40 hrs 3 mins       ██████████████████████░░░   89.63 % 
+bitria_backend           2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+bitria_frontend_info     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+bitria_docker            28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+pr50-adversarial         18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      33 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 28 mins (99.99%)
+⏱ AI Coding Time: 44 hrs 34 mins (99.72%)
 
-✍️ 536 lines written by AI, 1 lines written by hand (99.81% AI-written)
+✍️ 8,156 lines written by AI, 5 lines written by hand (99.94% AI-written)
 
-🔤 405,178,335 Input Tokens, 804,073 Output Tokens
+🔤 966,010,316 Input Tokens, 2,721,447 Output Tokens
 
-💵 $1405.83 Estimated AI Cost This Week
+💵 $3146.42 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 312 AI Prompts
+🧠 51 AI Sessions, 539 AI Prompts
 
-Fable                    529 lines           ████████████████████░░░░░   80.40 % 
-Opus                     122 lines           █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Fable                    6,755 lines         ███████████████████░░░░░░   75.79 % 
+Opus                     2,119 lines         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Sonnet                   39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 1,820 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 1,321 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +114,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:55:46 UTC
+ Last Updated on 30/07/2026 20:06:17 UTC
 <!--END_SECTION:waka-->
