@@ -55,48 +55,48 @@ Sunday                   210 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               21 hrs 7 mins       █████████████░░░░░░░░░░░░   50.89 % 
-Other                    11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+TypeScript               20 hrs 31 mins      █████████████░░░░░░░░░░░░   50.18 % 
+Other                    11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 10 mins      ██████████████████░░░░░░░   72.69 % 
-Claude Code              11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+VS Code                  29 hrs 33 mins      ██████████████████░░░░░░░   72.27 % 
+Claude Code              11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          38 hrs 12 mins      ███████████████████████░░   92.03 % 
-bitria_frontend_info     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-bitria_docker            27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-bitria_order_service     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-bitria_backend           21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+bitria_frontend          37 hrs 35 mins      ███████████████████████░░   91.95 % 
+bitria_frontend_info     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+bitria_docker            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+bitria_order_service     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+bitria_backend           21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Mac                      41 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 23 mins (99.7%)
+⏱ AI Coding Time: 40 hrs 45 mins (99.7%)
 
-✍️ 7,535 lines written by AI, 5 lines written by hand (99.93% AI-written)
+✍️ 7,487 lines written by AI, 5 lines written by hand (99.93% AI-written)
 
-🔤 841,834,089 Input Tokens, 2,363,138 Output Tokens
+🔤 826,606,382 Input Tokens, 2,341,150 Output Tokens
 
-💵 $2803.62 Estimated AI Cost This Week
+💵 $2757.60 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 477 AI Prompts
+🧠 36 AI Sessions, 468 AI Prompts
 
-Fable                    5,435 lines         ████████████████░░░░░░░░░   65.85 % 
-Opus                     2,736 lines         ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Sonnet                   83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Fable                    5,350 lines         ████████████████░░░░░░░░░   65.49 % 
+Opus                     2,736 lines         ████████░░░░░░░░░░░░░░░░░   33.49 % 
+Sonnet                   83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 1,214 characters per prompt
+📄 Detailed Prompter — average 1,222 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
@@ -114,5 +114,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:06:42 UTC
+ Last Updated on 01/08/2026 19:47:33 UTC
 <!--END_SECTION:waka-->
