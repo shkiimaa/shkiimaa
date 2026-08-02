@@ -55,39 +55,39 @@ Sunday                   210 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               20 hrs 31 mins      █████████████░░░░░░░░░░░░   50.18 % 
-Other                    11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+TypeScript               20 hrs 31 mins      █████████████░░░░░░░░░░░░   50.27 % 
+Other                    11 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 33 mins      ██████████████████░░░░░░░   72.27 % 
-Claude Code              11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+VS Code                  29 hrs 28 mins      ██████████████████░░░░░░░   72.23 % 
+Claude Code              11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.77 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          37 hrs 35 mins      ███████████████████████░░   91.95 % 
+bitria_frontend          37 hrs 31 mins      ███████████████████████░░   91.93 % 
 bitria_frontend_info     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 bitria_docker            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 bitria_order_service     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 bitria_backend           21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Mac                      40 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 45 mins (99.7%)
+⏱ AI Coding Time: 40 hrs 41 mins (99.7%)
 
 ✍️ 7,487 lines written by AI, 5 lines written by hand (99.93% AI-written)
 
-🔤 826,606,382 Input Tokens, 2,341,150 Output Tokens
+🔤 824,556,046 Input Tokens, 2,339,159 Output Tokens
 
-💵 $2757.60 Estimated AI Cost This Week
+💵 $2751.42 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 468 AI Prompts
+🧠 35 AI Sessions, 467 AI Prompts
 
 Fable                    5,350 lines         ████████████████░░░░░░░░░   65.49 % 
 Opus                     2,736 lines         ████████░░░░░░░░░░░░░░░░░   33.49 % 
@@ -96,7 +96,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 1,222 characters per prompt
+📄 Detailed Prompter — average 1,224 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
@@ -114,5 +114,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:47:33 UTC
+ Last Updated on 02/08/2026 19:47:12 UTC
 <!--END_SECTION:waka-->
