@@ -24,28 +24,28 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C892%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C894%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-579%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-581%20hrs%2045%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                2816 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌃 Evening                3947 commits        █████████████░░░░░░░░░░░░   52.73 % 
-🌙 Night                  526 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+🌞 Morning                197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌆 Daytime                2830 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                3957 commits        █████████████░░░░░░░░░░░░   52.69 % 
+🌙 Night                  526 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1454 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Tuesday                  1325 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Wednesday                1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Thursday                 1389 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Friday                   1455 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Saturday                 347 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Sunday                   239 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Monday                   1454 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Tuesday                  1325 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 1389 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Friday                   1479 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Saturday                 347 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Sunday                   239 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 
 
@@ -55,49 +55,48 @@ Sunday                   239 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 46 mins       ██████████████░░░░░░░░░░░   56.29 % 
-Markdown                 3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+TypeScript               8 hrs 14 mins       █████████████░░░░░░░░░░░░   51.40 % 
+Markdown                 4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+SQL                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 34 mins      ███████████████░░░░░░░░░░   61.02 % 
-Claude Code              6 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.98 % 
+Claude Code              15 hrs 52 mins      █████████████████████████   98.92 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          13 hrs 10 mins      ███████████████████░░░░░░   75.97 % 
-bitria_kyc_service       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-bitria_external_api      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-bitria_backend           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-bitria_order_service     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+bitria_frontend          12 hrs 50 mins      ████████████████████░░░░░   80.04 % 
+bitria_external_api      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+bitria_kyc_service       1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+bitria_backend           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+margin-fill-zero         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      17 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 16 hrs 2 mins (100.0%)
 
-✍️ 3,061 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,748 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 423,381,092 Input Tokens, 771,367 Output Tokens
+🔤 427,002,139 Input Tokens, 727,966 Output Tokens
 
-💵 $1790.44 Estimated AI Cost This Week
+💵 $3789.97 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 238 AI Prompts
+🧠 18 AI Sessions, 216 AI Prompts
 
-Fable                    2,615 lines         ████████████████████░░░░░   79.92 % 
-Opus                     613 lines           █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Sonnet                   44 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Fable                    2,615 lines         ███████████████████████░░   92.60 % 
+Opus                     209 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📄 Detailed Prompter — average 561 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -114,5 +113,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:28:13 UTC
+ Last Updated on 07/08/2026 19:34:45 UTC
 <!--END_SECTION:waka-->
