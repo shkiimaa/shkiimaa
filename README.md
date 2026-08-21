@@ -28,18 +28,90 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-593%20hrs%2025%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                220 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+🌆 Daytime                4945 commits        ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Evening                6792 commits        █████████████░░░░░░░░░░░░   53.87 % 
+🌙 Night                  650 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   2507 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Tuesday                  2208 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                2242 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Thursday                 2321 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Friday                   2566 commits        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Saturday                 482 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Sunday                   281 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               8 hrs 25 mins       █████████████████░░░░░░░░   68.45 % 
+Bash                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Image (svg)              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+
+🔥 Editors: 
+Claude Code              12 hrs 14 mins      █████████████████████████   99.35 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🐱‍💻 Projects: 
+bitria_frontend          8 hrs 59 mins       ██████████████████░░░░░░░   73.05 % 
+bitria_backend           1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+bitria_withdraw          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+bitria_docker            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+chipotle-dashboard-client22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+
+💻 Operating System: 
+Mac                      12 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 19 mins (100.0%)
+
+✍️ 3,792 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,752,364 Input Tokens, 1,043,193 Output Tokens
+
+💵 $413.56 Estimated AI Cost This Week
+
+🧠 27 AI Sessions, 172 AI Prompts
+
+Fable                    3,985 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,420 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               56 repos            ████████████████░░░░░░░░░   65.88 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               57 repos            █████████████████░░░░░░░░   66.28 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
 
 
- Last Updated on 20/08/2026 19:16:47 UTC
+ Last Updated on 21/08/2026 19:11:31 UTC
 <!--END_SECTION:waka-->
