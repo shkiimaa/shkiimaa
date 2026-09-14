@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-🌆 Daytime                6041 commits        ██████████░░░░░░░░░░░░░░░   39.50 % 
-🌃 Evening                8309 commits        ██████████████░░░░░░░░░░░   54.32 % 
-🌙 Night                  713 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+🌞 Morning                228 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+🌆 Daytime                5510 commits        ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌃 Evening                7595 commits        ██████████████░░░░░░░░░░░   54.16 % 
+🌙 Night                  689 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3062 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Tuesday                  2641 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Wednesday                2825 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Thursday                 2814 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Friday                   3081 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Saturday                 575 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Sunday                   297 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Monday                   2823 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Tuesday                  2433 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Wednesday                2547 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Thursday                 2577 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Friday                   2806 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Saturday                 546 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Sunday                   290 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 
 
@@ -55,47 +55,49 @@ Sunday                   297 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 hr 54 mins        ███████████████████░░░░░░   77.11 % 
-Text                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               1 hr 28 mins        █████████████████░░░░░░░░   68.96 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 27 mins       █████████████████████████   99.38 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Claude Code              1 hr 42 mins        ████████████████████░░░░░   79.99 % 
+Codex CLI                21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          1 hr 47 mins        ██████████████████░░░░░░░   72.27 % 
-bitria_backend           23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-bitria_order_service     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-bitria_collector         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-suhwankim                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+sh_investment            1 hr 8 mins         █████████████░░░░░░░░░░░░   53.66 % 
+bitria_frontend          33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+market-note              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+chipotle-dashboard-server5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 8 mins (100.0%)
 
-✍️ 148 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 617 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 464,610 Input Tokens, 123,807 Output Tokens
+🔤 1,563,489 Input Tokens, 113,562 Output Tokens
 
-💵 $69.95 Estimated AI Cost This Week
+💵 $78.18 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 38 AI Prompts
+🧠 7 AI Sessions, 31 AI Prompts
 
-Fable                    175 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    641 lines           █████████████████████████   99.23 % 
+Opus                     5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 408 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📝 Concise Prompter — average 390 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -112,5 +114,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:10:13 UTC
+ Last Updated on 14/09/2026 22:03:29 UTC
 <!--END_SECTION:waka-->
