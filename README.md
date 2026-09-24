@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-🌆 Daytime                2809 commits        ██████████░░░░░░░░░░░░░░░   38.93 % 
-🌃 Evening                3677 commits        █████████████░░░░░░░░░░░░   50.96 % 
-🌙 Night                  533 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+🌞 Morning                199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+🌆 Daytime                3312 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
+🌃 Evening                4253 commits        █████████████░░░░░░░░░░░░   51.15 % 
+🌙 Night                  550 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1367 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Tuesday                  1278 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Wednesday                1354 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 1308 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Friday                   1319 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Saturday                 362 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Sunday                   227 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Monday                   1590 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Tuesday                  1479 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Wednesday                1577 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Thursday                 1537 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Friday                   1518 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Saturday                 382 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Sunday                   231 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -55,42 +55,22 @@ Sunday                   227 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               6 mins              █████████████████░░░░░░░░   68.85 % 
-Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bitria_frontend          8 mins              █████████████████████░░░░   84.06 % 
-bitria_backend           1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (100.0%)
-
-✍️ 64 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 826,774 Input Tokens, 31,053 Output Tokens
-
-💵 $12.95 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 2 AI Prompts
-
-Opus                     49 lines            █████████████████░░░░░░░░   69.01 % 
-Fable                    22 lines            ████████░░░░░░░░░░░░░░░░░   30.99 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 200 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +86,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:45:44 UTC
+ Last Updated on 24/09/2026 21:47:51 UTC
 <!--END_SECTION:waka-->
