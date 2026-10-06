@@ -55,49 +55,49 @@ Sunday                   228 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-Other                    4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Markdown                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
+Markdown                 3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
+TypeScript               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 42 mins      ████████████████████████░   97.68 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Claude Code              11 hrs 20 mins      ████████████████████████░   97.01 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          11 hrs 37 mins      ███████████████████░░░░░░   77.20 % 
-sh_inveset               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-bitria_backend           1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-chipotle-dashboard-client16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-suhwan                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+bitria_frontend          11 hrs 28 mins      █████████████████████████   98.13 % 
+suhwan                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+chipotle-dashboard-client1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+sh_inveset               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+deposit_withdraw_doc     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      15 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 2 mins (99.89%)
+⏱ AI Coding Time: 11 hrs 40 mins (99.86%)
 
-✍️ 1,654 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 695 lines written by AI, 1 lines written by hand (99.86% AI-written)
 
-🔤 7,558,903 Input Tokens, 1,320,751 Output Tokens
+🔤 4,845,686 Input Tokens, 1,046,492 Output Tokens
 
-💵 $545.68 Estimated AI Cost This Week
+💵 $339.98 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 385 AI Prompts
+🧠 8 AI Sessions, 317 AI Prompts
 
-Opus                     1,001 lines         ███████████████░░░░░░░░░░   58.13 % 
-Fable                    721 lines           ██████████░░░░░░░░░░░░░░░   41.87 % 
+Opus                     727 lines           █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 1,426 characters per prompt
-🔁 Iterative Prompter — average 35 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.86% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 40 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,5 +113,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:53:19 UTC
+ Last Updated on 06/10/2026 00:19:15 UTC
 <!--END_SECTION:waka-->
