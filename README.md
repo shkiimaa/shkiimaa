@@ -31,20 +31,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-🌆 Daytime                2642 commits        ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌃 Evening                3335 commits        ████████████░░░░░░░░░░░░░   49.40 % 
-🌙 Night                  574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌞 Morning                201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌆 Daytime                2648 commits        ██████████░░░░░░░░░░░░░░░   39.18 % 
+🌃 Evening                3335 commits        ████████████░░░░░░░░░░░░░   49.35 % 
+🌙 Night                  574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1324 commits        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Tuesday                  1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Wednesday                1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Thursday                 1213 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Friday                   1138 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Saturday                 409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Monday                   1324 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Tuesday                  1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Wednesday                1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Thursday                 1220 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Friday                   1138 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Saturday                 409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 Sunday                   233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
@@ -55,43 +55,42 @@ Sunday                   233 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ███████████████░░░░░░░░░░   61.51 % 
-Other                    2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+Markdown                 4 hrs 6 mins        ████████████████████████░   95.80 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 39 mins       █████████████████████████   99.74 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              4 hrs 16 mins       █████████████████████████   99.59 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          6 hrs 28 mins       ████████████████████████░   96.97 % 
-suhwan                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-chipotle-dashboard-client1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-sh_inveset               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+bitria_frontend          4 hrs 6 mins        ████████████████████████░   95.80 % 
+suhwan                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+sh_inveset               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      6 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 17 mins (100.0%)
 
 ✍️ 267 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,415,587 Input Tokens, 540,130 Output Tokens
+🔤 1,391,413 Input Tokens, 341,974 Output Tokens
 
-💵 $207.50 Estimated AI Cost This Week
+💵 $112.24 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 175 AI Prompts
+🧠 5 AI Sessions, 61 AI Prompts
 
 Opus                     267 lines           █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
+📝 Concise Prompter — average 88 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -108,5 +107,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:19:40 UTC
+ Last Updated on 08/10/2026 23:36:03 UTC
 <!--END_SECTION:waka-->
