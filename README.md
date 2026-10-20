@@ -55,47 +55,47 @@ Sunday                   241 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 5 mins        █████████████████░░░░░░░░   67.07 % 
-Other                    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Prisma                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+TypeScript               7 hrs 24 mins       ████████████████░░░░░░░░░   62.65 % 
+Other                    2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Prisma                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 26 mins      █████████████████████████   99.20 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Claude Code              11 hrs 43 mins      █████████████████████████   99.08 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
-sh_investment            4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.74 % 
-sh_inveset               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-suhwankim                1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+sh_investment            4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+sh_inveset               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+bitria_frontend          2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+suhwankim                1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 
 💻 Operating System: 
-Mac                      13 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 31 mins (99.75%)
+⏱ AI Coding Time: 11 hrs 48 mins (99.71%)
 
-✍️ 4,611 lines written by AI, 5 lines written by hand (99.89% AI-written)
+✍️ 4,591 lines written by AI, 5 lines written by hand (99.89% AI-written)
 
-🔤 7,938,996 Input Tokens, 1,041,277 Output Tokens
+🔤 7,088,969 Input Tokens, 918,551 Output Tokens
 
-💵 $547.80 Estimated AI Cost This Week
+💵 $437.46 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 248 AI Prompts
+🧠 10 AI Sessions, 231 AI Prompts
 
-Opus                     4,691 lines         ████████████████████████░   97.71 % 
-GPT                      90 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Opus                     4,691 lines         █████████████████████████   98.12 % 
+GPT                      90 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.89% of written lines came from AI
-📝 Concise Prompter — average 441 characters per prompt
+📝 Concise Prompter — average 470 characters per prompt
 🔁 Iterative Prompter — average 23 prompts per session
 🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
@@ -113,5 +113,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:38:49 UTC
+ Last Updated on 20/10/2026 21:52:33 UTC
 <!--END_SECTION:waka-->
