@@ -26,26 +26,26 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C951%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-645%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-647%20hrs%2045%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-🌆 Daytime                1752 commits        █████████░░░░░░░░░░░░░░░░   36.43 % 
-🌃 Evening                2307 commits        ████████████░░░░░░░░░░░░░   47.97 % 
+🌆 Daytime                1752 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌃 Evening                2309 commits        ████████████░░░░░░░░░░░░░   47.99 % 
 🌙 Night                  546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   873 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Tuesday                  870 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Wednesday                826 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 812 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Tuesday                  870 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Wednesday                828 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Thursday                 812 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Friday                   821 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Saturday                 373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Sunday                   234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Saturday                 373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Sunday                   234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 
@@ -55,51 +55,51 @@ Sunday                   234 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-TypeScript               6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-CSS                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+TypeScript               5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
+JavaScript               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Other                    3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 16 mins      █████████████░░░░░░░░░░░░   50.37 % 
-Claude Code              10 hrs 6 mins       ████████████░░░░░░░░░░░░░   49.58 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              10 hrs 32 mins      █████████████████░░░░░░░░   67.04 % 
+VS Code                  4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-shkiimaa.github.io       9 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.90 % 
-bitria_frontend          8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.48 % 
-suhwankim                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-suhwan                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-shorts-pipeline          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+bitria_frontend          7 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+shkiimaa.github.io       4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+shorts-pipeline          2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+suhwan                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+suhwankim                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 💻 Operating System: 
-Mac                      20 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 10 mins (98.97%)
+⏱ AI Coding Time: 15 hrs 37 mins (99.25%)
 
-✍️ 3,019 lines written by AI, 43 lines written by hand (98.6% AI-written)
+✍️ 2,034 lines written by AI, 14 lines written by hand (99.32% AI-written)
 
-🔤 16,275,024 Input Tokens, 1,635,995 Output Tokens
+🔤 12,896,756 Input Tokens, 1,378,080 Output Tokens
 
-💵 $528.54 Estimated AI Cost This Week
+💵 $520.66 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 293 AI Prompts
+🧠 20 AI Sessions, 275 AI Prompts
 
-Fable                    1,771 lines         ██████████████░░░░░░░░░░░   57.76 % 
-GPT                      1,073 lines         █████████░░░░░░░░░░░░░░░░   35.00 % 
-Opus                     222 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Fable                    1,771 lines         █████████████████████░░░░   85.60 % 
+Opus                     222 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+GPT                      76 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.6% of written lines came from AI
-📄 Detailed Prompter — average 553 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 2.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.32% of written lines came from AI
+📄 Detailed Prompter — average 1,051 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 1.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,5 +115,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:35:50 UTC
+ Last Updated on 28/10/2026 22:50:58 UTC
 <!--END_SECTION:waka-->
