@@ -55,51 +55,51 @@ Sunday                   232 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.17 % 
-Other                    4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-JavaScript               3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Other                    4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.10 % 
+TypeScript               3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+JavaScript               3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Java                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 1 min        ██████████████████░░░░░░░   71.90 % 
-VS Code                  4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              9 hrs 15 mins       █████████████████░░░░░░░░   66.33 % 
+VS Code                  4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Codex CLI                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-bitria_frontend          7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.75 % 
-shkiimaa.github.io       4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-shorts-pipeline          2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-suhwan                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-suhwankim                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+bitria_frontend          4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+shkiimaa.github.io       4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.26 % 
+shorts-pipeline          2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+suhwan                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+suhwankim                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 💻 Operating System: 
-Mac                      16 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (99.29%)
+⏱ AI Coding Time: 13 hrs 49 mins (99.15%)
 
-✍️ 2,269 lines written by AI, 14 lines written by hand (99.39% AI-written)
+✍️ 1,974 lines written by AI, 14 lines written by hand (99.3% AI-written)
 
-🔤 11,081,877 Input Tokens, 1,577,427 Output Tokens
+🔤 8,102,214 Input Tokens, 1,273,843 Output Tokens
 
-💵 $444.44 Estimated AI Cost This Week
+💵 $270.42 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 274 AI Prompts
+🧠 23 AI Sessions, 239 AI Prompts
 
-Fable                    1,503 lines         ████████████████░░░░░░░░░   65.95 % 
-Opus                     721 lines           ████████░░░░░░░░░░░░░░░░░   31.64 % 
-GPT                      55 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Fable                    1,255 lines         ████████████████░░░░░░░░░   63.29 % 
+Opus                     673 lines           ████████░░░░░░░░░░░░░░░░░   33.94 % 
+GPT                      55 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📄 Detailed Prompter — average 1,168 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 1.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.3% of written lines came from AI
+📄 Detailed Prompter — average 1,244 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 1.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,5 +115,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:58:45 UTC
+ Last Updated on 30/10/2026 22:38:46 UTC
 <!--END_SECTION:waka-->
