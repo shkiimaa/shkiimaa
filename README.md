@@ -1,6 +1,6 @@
 ## SUHWAN KIM · Frontend Developer
 
-I build web and mobile products with TypeScript, React and Next.js.
+I build web and mobile products with TypeScript, React and Next.js.<br/>
 I find the cause of a problem through logs and measurements, then fix it with a structure that stays easy to maintain.
 
 Currently building **Bitria**, a crypto brokerage platform: the web, iOS, Android and desktop frontends from scratch in a two-person team, plus backend APIs and K3s operations.
