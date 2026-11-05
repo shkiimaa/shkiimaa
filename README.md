@@ -3,8 +3,7 @@
 I build web and mobile products with TypeScript, React and Next.js.
 I find the cause of a problem through logs and measurements, then fix it with a structure that stays easy to maintain.
 
-- Building **Bitria**, a crypto brokerage platform: the web, iOS, Android and desktop frontends from scratch in a two-person team, plus backend APIs and K3s operations.
-- Cut trading-screen render work by 70% and mobile Total Blocking Time by 30%, verified with repeatable measurements.
+Currently building **Bitria**, a crypto brokerage platform: the web, iOS, Android and desktop frontends from scratch in a two-person team, plus backend APIs and K3s operations.
 
 [Resume](https://shkiimaa.github.io/) · [Career](https://shkiimaa.github.io/career/) · [Portfolio](https://shkiimaa.github.io/portfolio/)
 
