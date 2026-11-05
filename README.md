@@ -32,18 +32,18 @@
 
 ```text
 🌞 Morning                197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-🌆 Daytime                1700 commits        █████████░░░░░░░░░░░░░░░░   36.63 % 
-🌃 Evening                2267 commits        ████████████░░░░░░░░░░░░░   48.85 % 
-🌙 Night                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+🌆 Daytime                1702 commits        █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌃 Evening                2267 commits        ████████████░░░░░░░░░░░░░   48.83 % 
+🌙 Night                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   810 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 Tuesday                  869 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Wednesday                840 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Thursday                 802 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Friday                   826 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Wednesday                840 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Thursday                 804 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Friday                   826 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 Saturday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 Sunday                   209 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
@@ -75,29 +75,6 @@ chipotle-dashboard-client32 mins             █░░░░░░░░░░�
 Mac                      10 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 24 mins (99.91%)
-
-✍️ 1,311 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 5,654,422 Input Tokens, 825,311 Output Tokens
-
-💵 $128.67 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 164 AI Prompts
-
-Opus                     1,424 lines         ████████████████████████░   96.28 % 
-GPT                      55 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,110 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -111,5 +88,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 08:57:01 UTC
+ Last Updated on 05/11/2026 09:02:47 UTC
 <!--END_SECTION:waka-->
