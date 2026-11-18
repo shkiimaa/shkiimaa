@@ -5,7 +5,7 @@ I find the cause of a problem through logs and measurements, then fix it with a 
 
 Currently building **Bitria**, a crypto brokerage platform: the web, iOS, Android and desktop frontends from scratch in a two-person team, plus backend APIs and K3s operations.
 
-[Resume](https://shkiimaa.github.io/) · [Career](https://shkiimaa.github.io/career/) · [Portfolio](https://shkiimaa.github.io/portfolio/)
+[Resume](https://shkiimaa.github.io/) · [Portfolio](https://shkiimaa.github.io/portfolio-detail/)
 
 ### Stack
 
