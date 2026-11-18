@@ -1,4 +1,4 @@
-## SUHWAN KIM · Frontend Developer
+## SUHWAN KIM · Frontend Engineer
 
 I build web and mobile products with TypeScript, React and Next.js.<br/>
 I find the cause of a problem through logs and measurements, then fix it with a structure that stays easy to maintain.
